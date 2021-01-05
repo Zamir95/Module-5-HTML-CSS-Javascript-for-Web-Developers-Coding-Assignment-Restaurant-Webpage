@@ -2,4 +2,4 @@
 
 
 Website can be viewed at:
-[Restaurant](https://kishanpatel98.github.io/Restaurant-Website/index.html)
+[DAVID CHU'S CHINA BISTRO](https://kishanpatel98.github.io/Module-5-HTML-CSS-Javascript-for-Web-Developers-Coding-Assignment-Restaurant-Webpage/.)
